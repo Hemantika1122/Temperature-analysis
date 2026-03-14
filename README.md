@@ -1,6 +1,6 @@
 # Temperature Analysis
 
-A collection of C++ exercises for temperature data analysis, including numerical methods and data processing.
+A collection of C++ codes for temperature data analysis, including numerical methods and data processing.
 
 ## Exercises
 
